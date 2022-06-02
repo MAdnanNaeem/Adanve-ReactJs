@@ -4,7 +4,6 @@ function App() {
   return (
     <div>
       <h2>Let's get started!</h2>
-      <h2>Allah Hu Akbar</h2>
       <ExpenseItem></ExpenseItem>
     </div>
   );
